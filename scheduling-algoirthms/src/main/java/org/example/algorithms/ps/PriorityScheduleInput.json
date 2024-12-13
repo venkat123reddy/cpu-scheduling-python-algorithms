@@ -1,0 +1,23 @@
+[{
+  "processName": "p1",
+  "burstTime": 2,
+  "priority": 3
+},
+  {
+    "processName": "p2",
+    "burstTime": 2,
+    "priority": 2
+  },
+  {
+    "processName": "p3",
+    "burstTime": 2,
+    "priority": 5
+  },
+  {
+    "processName": "p4",
+    "burstTime": 2,
+    "priority": 2
+  }
+
+
+]

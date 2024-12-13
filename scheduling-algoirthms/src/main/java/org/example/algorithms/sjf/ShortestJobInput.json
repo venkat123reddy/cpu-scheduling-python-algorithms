@@ -1,0 +1,23 @@
+[{
+  "processName": "P1",
+  "burstTime": 5
+},
+  {
+    "processName": "P2",
+    "burstTime": 3
+  },
+  {
+    "processName": "P3",
+    "burstTime": 1
+  },
+  {
+    "processName": "P4",
+    "burstTime": 7
+  },
+  {
+    "processName": "P5",
+    "burstTime": 4
+  }
+
+
+]
